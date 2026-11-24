@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="Type" title="Type" type="string"/>
+      <attribute id="Work_ID" title="Work_ID" type="string"/>
+      <attribute id="Original_Title" title="Original_Title" type="string"/>
+      <attribute id="Author" title="Author" type="string"/>
+      <attribute id="Edition_Year" title="Edition_Year" type="string"/>
+      <attribute id="Country" title="Country" type="string"/>
+      <attribute id="Language" title="Language" type="string"/>
+      <attribute id="Cover_Image_URL" title="Cover_Image_URL" type="string"/>
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+      <attribute id="image" title="image" type="string"/>
+      <attribute id="Iconclass_Code" title="Iconclass_Code" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="rawWeight" title="rawWeight" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="W01E01" label="Преступление и наказание (2011)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W01"/>
+          <attvalue for="Original_Title" value="Преступление и наказание"/>
+          <attvalue for="Author" value="Фёдор Михайлович Достоевский"/>
+          <attvalue for="Edition_Year" value="2011"/>
+          <attvalue for="Country" value="Russia"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E01.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E01.jpg"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="6431.156709167212" y="5894.835550443733"/>
+      </node>
+      <node id="W01E02" label="Преступление и наказание (1988)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W01"/>
+          <attvalue for="Original_Title" value="Преступление и наказание"/>
+          <attvalue for="Author" value="Фёдор Михайлович Достоевский"/>
+          <attvalue for="Edition_Year" value="1988"/>
+          <attvalue for="Country" value="USSR"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E02.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E02.jpg"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6024.714858391283" y="6687.80956375848"/>
+      </node>
+      <node id="W01E03" label="Schuld und Sühne (2026)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W01"/>
+          <attvalue for="Original_Title" value="Преступление и наказание"/>
+          <attvalue for="Author" value="Фёдор Михайлович Достоевский"/>
+          <attvalue for="Edition_Year" value="2026"/>
+          <attvalue for="Country" value="Germany"/>
+          <attvalue for="Language" value="german"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E03.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W01E03.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="5544.017053831244" y="6523.575685345234"/>
+      </node>
+      <node id="W02E01" label="Война и мир (2026)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W02"/>
+          <attvalue for="Original_Title" value="Война и мир"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="2026"/>
+          <attvalue for="Country" value="Russia"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E01.png"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E01.png"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="6305.873402458531" y="6237.524031112248"/>
+      </node>
+      <node id="W02E02" label="Krieg und Frieden (2000)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W02"/>
+          <attvalue for="Original_Title" value="Война и мир"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="2000"/>
+          <attvalue for="Country" value="Germany"/>
+          <attvalue for="Language" value="german"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E02.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E02.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="5859.485491334985" y="5950.773940637434"/>
+      </node>
+      <node id="W02E03" label="La Guerre et la Paix (2002)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W02"/>
+          <attvalue for="Original_Title" value="Война и мир"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="2002"/>
+          <attvalue for="Country" value="France"/>
+          <attvalue for="Language" value="french"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E03.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W02E03.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="5562.426728028847" y="6065.141394604382"/>
+      </node>
+      <node id="W03E01" label="Анна Каренина (2018)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W03"/>
+          <attvalue for="Original_Title" value="Анна Каренина"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="2018"/>
+          <attvalue for="Country" value="Russia"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E01.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E01.jpg"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6368.9799248603285" y="6410.104789631274"/>
+      </node>
+      <node id="W03E02" label="Anna Karenina (1950)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W03"/>
+          <attvalue for="Original_Title" value="Анна Каренина"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="1950"/>
+          <attvalue for="Country" value="USA"/>
+          <attvalue for="Language" value="english"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E02.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E02.jpg"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="6495.999270764639" y="6014.542025317166"/>
+      </node>
+      <node id="W03E03" label="Anna Karenina (2012)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W03"/>
+          <attvalue for="Original_Title" value="Анна Каренина"/>
+          <attvalue for="Author" value="Лев Николаевич Толстой"/>
+          <attvalue for="Edition_Year" value="2012"/>
+          <attvalue for="Country" value="Germany"/>
+          <attvalue for="Language" value="german"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E03.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W03E03.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="6352.780943330915" y="5725.510187388332"/>
+      </node>
+      <node id="W04E01" label="Мастер и Маргарита (2025)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W04"/>
+          <attvalue for="Original_Title" value="Мастер и Маргарита"/>
+          <attvalue for="Author" value="Михаил Афанасьевич Булгаков"/>
+          <attvalue for="Edition_Year" value="2025"/>
+          <attvalue for="Country" value="Russia"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E01.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E01.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="6517.5376936748235" y="6495.289926546485"/>
+      </node>
+      <node id="W04E02" label="Der Meister und Margarita (2020)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W04"/>
+          <attvalue for="Original_Title" value="Мастер и Маргарита"/>
+          <attvalue for="Author" value="Михаил Афанасьевич Булгаков"/>
+          <attvalue for="Edition_Year" value="2020"/>
+          <attvalue for="Country" value="Germany"/>
+          <attvalue for="Language" value="german"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E02.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E02.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="5569.239374156928" y="6193.262836780174"/>
+      </node>
+      <node id="W04E03" label="Le Maître et Marguerite (1991)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W04"/>
+          <attvalue for="Original_Title" value="Мастер и Маргарита"/>
+          <attvalue for="Author" value="Михаил Афанасьевич Булгаков"/>
+          <attvalue for="Edition_Year" value="1991"/>
+          <attvalue for="Country" value="France"/>
+          <attvalue for="Language" value="french"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E03.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W04E03.jpg"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5819.272603007031" y="5532.401111362086"/>
+      </node>
+      <node id="W05E01" label="Евгений Онегин (1983)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W05"/>
+          <attvalue for="Original_Title" value="Евгений Онегин"/>
+          <attvalue for="Author" value="Александр Сергеевич Пушкин"/>
+          <attvalue for="Edition_Year" value="1983"/>
+          <attvalue for="Country" value="USSR"/>
+          <attvalue for="Language" value="russian"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E01.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E01.jpg"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6085.647550257245" y="6200.8933717797845"/>
+      </node>
+      <node id="W05E02" label="Jewgeni Onegin (1999)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W05"/>
+          <attvalue for="Original_Title" value="Евгений Онегин"/>
+          <attvalue for="Author" value="Александр Сергеевич Пушкин"/>
+          <attvalue for="Edition_Year" value="1999"/>
+          <attvalue for="Country" value="Germany"/>
+          <attvalue for="Language" value="deutsch"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E02.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E02.jpg"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="6152.159504808834" y="5753.763365307349"/>
+      </node>
+      <node id="W05E03" label="Eugene Onegin (2008)">
+        <attvalues>
+          <attvalue for="Type" value="Edition"/>
+          <attvalue for="Work_ID" value="W05"/>
+          <attvalue for="Original_Title" value="Евгений Онегин"/>
+          <attvalue for="Author" value="Александр Сергеевич Пушкин"/>
+          <attvalue for="Edition_Year" value="2008"/>
+          <attvalue for="Country" value="UK, USA"/>
+          <attvalue for="Language" value="english"/>
+          <attvalue for="Cover_Image_URL" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E03.jpg"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="image" value="https://raw.githubusercontent.com/amariamor/DHLab_Test/main/images/W05E03.jpg"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="5537.396422115465" y="5913.213514829604"/>
+      </node>
+      <node id="M_0" label="Abstract, Non-representational Art">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5778.324566845691" y="6597.859382997499"/>
+      </node>
+      <node id="M_11K" label="devil(s) and demons">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="11K"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5528.300258636018" y="5620.652133113389"/>
+      </node>
+      <node id="M_11Q712" label="church (exterior)">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="11Q712"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6289.571584344792" y="5607.676222477747"/>
+      </node>
+      <node id="M_25I12" label="Prospect of city, town panorama, silhouette of city">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="25I12"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6611.2753874429145" y="5774.629524250909"/>
+      </node>
+      <node id="M_31A221(+821)" label="head (human) (+ young female (human being))">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="31A221(+821)"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6359.65829076958" y="6588.259896503617"/>
+      </node>
+      <node id="M_31A22611" label="blood">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="31A22611"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="5951.757799949268" y="5642.671500216559"/>
+      </node>
+      <node id="M_31D14" label="adult man">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="31D14"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="50"/>
+        <viz:position x="5303.377953440955" y="5681.349735672671"/>
+      </node>
+      <node id="M_31D15" label="adult woman">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="31D15"/>
+        </attvalues>
+        <viz:color r="182" g="182" b="182"/>
+        <viz:size value="50"/>
+        <viz:position x="6808.929397343896" y="6310.013450848508"/>
+      </node>
+      <node id="M_31E" label="death of human being">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="31E"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6007.806495447378" y="6510.155858074318"/>
+      </node>
+      <node id="M_34B12" label="cat">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="34B12"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="5818.2982522461" y="6346.2563689065"/>
+      </node>
+      <node id="M_41A1" label="civic architecture; edifices; dwellings">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="41A1"/>
+        </attvalues>
+        <viz:color r="168" g="168" b="168"/>
+        <viz:size value="50"/>
+        <viz:position x="6389.291295561352" y="6134.621003175199"/>
+      </node>
+      <node id="M_43C92" label="one pair dancing; man and woman dancing as a couple">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="43C92"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5892.94586426315" y="5838.711618532952"/>
+      </node>
+      <node id="M_45B" label="the soldier; the soldier's life">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="45B"/>
+        </attvalues>
+        <viz:color r="160" g="160" b="160"/>
+        <viz:size value="50"/>
+        <viz:position x="5904.2409082571985" y="6100.419312092048"/>
+      </node>
+      <node id="M_45C" label="(military) equipment and supply">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="45C"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5489.975829023779" y="6294.4304575992055"/>
+      </node>
+      <node id="M_45C(+22)" label="(military) equipment and supply (+ cavalry, horsemen)">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="45C(+22)"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5966.716999144224" y="6293.843792241846"/>
+      </node>
+      <node id="M_46C1511" label="railway, train">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="46C1511"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5760.233405144438" y="5738.110878258563"/>
+      </node>
+      <node id="M_46C1521" label="steam locomotive">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="46C1521"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="6589.0656434163775" y="5627.243868811612"/>
+      </node>
+      <node id="M_48A983" label="ornament derived from plant forms">
+        <attvalues>
+          <attvalue for="Type" value="Motif"/>
+          <attvalue for="rawSize" value="50"/>
+          <attvalue for="Iconclass_Code" value="48A983"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="50"/>
+        <viz:position x="5423.7715722123785" y="6438.024571966977"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="W01E01" target="M_25I12" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="1" source="W01E01" target="M_41A1" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="2" source="W01E02" target="M_0" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="3" source="W01E03" target="M_11Q712" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="4" source="W01E03" target="M_41A1" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="5" source="W01E03" target="M_48A983" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="6" source="W02E01" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="7" source="W02E01" target="M_31D15" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="8" source="W02E01" target="M_43C92" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="9" source="W02E02" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="10" source="W02E02" target="M_45B" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="11" source="W02E02" target="M_45C" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="12" source="W02E03" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="13" source="W02E03" target="M_45B" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="14" source="W02E03" target="M_45C(+22)" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="15" source="W03E01" target="M_31D15" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="16" source="W03E02" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="17" source="W03E02" target="M_31D15" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="18" source="W03E03" target="M_31D15" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="19" source="W03E03" target="M_46C1511" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="20" source="W03E03" target="M_46C1521" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="21" source="W04E01" target="M_31A221(+821)" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="22" source="W04E01" target="M_31D15" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="23" source="W04E01" target="M_34B12" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="24" source="W04E02" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="25" source="W04E02" target="M_34B12" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="26" source="W04E02" target="M_41A1" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="27" source="W04E03" target="M_11K" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="28" source="W05E01" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="29" source="W05E02" target="M_31A22611" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="30" source="W05E02" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="31" source="W05E02" target="M_31E" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="32" source="W05E03" target="M_31A22611" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="33" source="W05E03" target="M_31D14" weight="6" label="depicts">
+        <attvalues>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

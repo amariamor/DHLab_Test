@@ -1,2 +1,2 @@
-## DHLab_Test_smaller_text
-_this is to test git hub_
+## DHLab_Project_repository
+this repository is connected to the DH Lab project. 
